@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">SkillBoost</string>
+
+    <!-- Common Strings -->
+    <string name="get_started">Get Started</string>
+    <string name="next">NEXT</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_have_account">Already Have An Account?</string>
+    <string name="search_courses">Search Courses</string>
+
+    <!-- Screen-specific Strings -->
+    <string name="best_choice">Best Choice For\nEveryone</string>
+    <string name="online_study">Online Study is the</string>
+
+    <string name="best_platform">Best Platform For Both</string>
+    <string name="teachers_learners">Teachers and Learners</string>
+
+    <string name="learn_anytime">Learn Anytime,</string>
+    <string name="anywhere_future">Anywhere. Accelerate\nyour Future and beyond,</string>
+
+    <string name="getting_started">Getting Started.! Create an Account to Continue your allCourses</string>
+    <string name="continue_courses">Let\'s Sign ln.! Login to Your Account to Continue your Courses</string>
+
+    <string name="pick_course">Pick Your Course To\nLearn From Best</string>
+
+    <!-- Welcome messages -->
+    <string name="welcome_back_foodie">Welcome Back, Foodie!</string>
+    <string name="satisfy_cravings">Let\'s satisfy your cravings with just a click. Your next meal is waiting to be delivered!</string>
+
+    <!-- Course Overview -->
+    <string name="course_overview">Course Overview</string>
+    <string name="designer_master_class">Designer Master Class For Beginners</string>
+    <string name="intro_3d_modeling">Introduction to 3D Modeling</string>
+
+    <!-- Food-related strings -->
+    <string name="cheese_burger">Cheese Burger\nRs.1600</string>
+    <string name="french_toast">French Toast\nRs.1230</string>
+    <string name="delivery_fee">Delivery Fee</string>
+    <string name="item_price">Item Price</string>
+    <string name="total">Total</string>
+    <string name="rs_500">Rs. 500</string>
+    <string name="rs_3630">Rs. 3630</string>
+    <string name="rs_4130">Rs. 4130</string>
+
+    <!-- Hi Foodie screen -->
+    <string name="hi_foodie">Hi Foodie!\nWhat are your cravings today?</string>
+    <string name="select_craving">Select your Craving!</string>
+    <string name="search">Search</string>
+    <string name="done">D o n e</string>
+</resources>
